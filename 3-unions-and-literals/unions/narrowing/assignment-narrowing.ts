@@ -6,6 +6,6 @@ admiral.toString();
 admiral.toFixed();
 
 let inventor: number | string = "Hedy Lamarr";
-admiral.toString();
+inventor.toString();
 //Error: Esta propiedad no se encuentra en un tipo string
-admiral.toFixed();
+inventor.toFixed();
